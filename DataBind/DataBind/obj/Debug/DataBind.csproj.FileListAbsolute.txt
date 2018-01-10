@@ -1,0 +1,15 @@
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\bin\Debug\DataBind.exe.config
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\bin\Debug\DataBind.exe
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\bin\Debug\DataBind.pdb
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.csprojResolveAssemblyReference.cache
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\MainWindow.g.cs
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\App.g.cs
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind_MarkupCompile.cache
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind_MarkupCompile.lref
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\MainWindow.baml
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.g.resources
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.Properties.Resources.resources
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.csproj.GenerateResource.Cache
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.exe
+C:\Users\Zhong\Documents\Visual Studio 2015\Projects\MVVMWPF\DataBind\DataBind\obj\Debug\DataBind.pdb
